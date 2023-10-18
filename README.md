@@ -16,7 +16,7 @@ XDOGE Contract:0x0CC6C6fa76B56bBDE0625bB239 9Eb326631FC605
 Website:https://xdoge.art
 Twitter:https://twitter.com/xdoge_base
 Telegram:https://t.me/xdoge_base
-Discord:https://discord.gg/xdoge_base
+Discord:https://discord.gg/xdoge
 YouTube:https://www.youtube.com/@xdoge_base
 Email:hi@xdoge.art
 How to buy:https://xdoge.art/swap
