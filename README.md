@@ -1,4 +1,5 @@
-#What is XDOGE?
+
+# What is XDOGE?
 
 XDOGE is a deflationary MEME token and Dex on Basechain, with a total supply of 500,000,000,000,000,000 .
 
@@ -10,15 +11,23 @@ At the same time, XDOGE has created the first futures dex on Basechain. The Dex 
 
 XDOGE's mission is make doge great again! and this is a fair social experiment, Let's become X warriors together!
 
-
-XDOGE Contract:0x0CC6C6fa76B56bBDE0625bB239 9Eb326631FC605
+# Contract?
+XDOGE Contract:0x046e1Db4C4E8FE58f7999fDC48e66c77599a934F
 
 Website:https://xdoge.art
+
 Twitter:https://twitter.com/xdoge_base
+
 Telegram:https://t.me/xdoge_base
+
 Discord:https://discord.gg/xdoge
+
 YouTube:https://www.youtube.com/@xdoge_base
+
 Email:hi@xdoge.art
-How to buy:https://xdoge.art/swap
-Futures:https://futures.xdoge.art
+
+How to buy:[https://xdoge.art/swap](https://app.uniswap.org/swap?chain=base&inputCurrency=ETH&outputCurrency=0x046e1Db4C4E8FE58f7999fDC48e66c77599a934F)https://app.uniswap.org/swap?chain=base&inputCurrency=ETH&outputCurrency=0x046e1Db4C4E8FE58f7999fDC48e66c77599a934F
+
+Perps:https://xdoge.art/perps
+
 Docs:https://docs.xdoge.art
