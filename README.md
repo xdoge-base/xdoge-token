@@ -26,7 +26,7 @@ YouTube:https://www.youtube.com/@xdoge_base
 
 Email:hi@xdoge.art
 
-How to buy:(https://app.uniswap.org/swap?chain=base&inputCurrency=ETH&outputCurrency=0x046e1Db4C4E8FE58f7999fDC48e66c77599a934F)https://app.uniswap.org/swap?chain=base&inputCurrency=ETH&outputCurrency=0x046e1Db4C4E8FE58f7999fDC48e66c77599a934F
+How to buy:https://app.uniswap.org/swap?chain=base&inputCurrency=ETH&outputCurrency=0x046e1Db4C4E8FE58f7999fDC48e66c77599a934F
 
 Perps:https://xdoge.art/perps
 
